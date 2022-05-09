@@ -47,7 +47,7 @@ html {
 
 #sec-1 {
 
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../images/banner.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../Images/banner.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
