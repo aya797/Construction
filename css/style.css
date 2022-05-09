@@ -30,6 +30,7 @@ html {
 
 #info #icons {
     font-size: 20px;
+    margin-left: 7px;
 }
 
 #info #icons a {
@@ -145,7 +146,7 @@ html {
     text-transform: uppercase;
     font-weight: 800;
     color: white;
-    font-size: 50px;
+    font-size: 38px;
 }
 
 #sec2 h1:last-of-type {
@@ -168,7 +169,13 @@ html {
     font-weight: 600;
     padding: 7px;
     margin-top: 40px;
+    transition: 1s;
 
+}
+
+#sec2 a:hover {
+    background-color: #B48F0B;
+    color: black;
 }
 
 
@@ -630,6 +637,8 @@ footer p {
     #sec8 input:last-of-type {
         margin-top: 10px;
     }
+
+
 }
 
 
